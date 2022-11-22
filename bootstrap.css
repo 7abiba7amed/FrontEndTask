@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btn-primary{
     border-width : 0px;
     background-color: #35B8BE;
@@ -5,5 +6,24 @@
     border-radius: 5px;
     color: white;
     font-size: 18px;
+}
+
+.bg-color{
+    background-color: #F5FBFC;
+}
+.txt-left{
+    text-align: left;
+}
+.txt-center{
+    text-align: center;
+}
+.f-right{
+    float: right;
+}
+.f-left{
+    float: left;
+}
+.d-flex{
+    display: flex;
 }
 
