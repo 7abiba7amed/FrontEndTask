@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+main{
+    margin:0;
+    padding: 15px;
+}
 .btn-primary{
     border-width : 0px;
     background-color: #35B8BE;
@@ -6,6 +10,22 @@
     border-radius: 5px;
     color: white;
     font-size: 18px;
+}
+
+.grid{
+    display: grid;
+}
+
+.two_column_grid{
+    grid-template-columns: 50% 50%;
+}
+
+.three_column_grid{
+    grid-template-columns: 33% 34% 33%;
+}
+
+.numbers{
+    border : 1px solid silver;
 }
 
 .bg-color{
