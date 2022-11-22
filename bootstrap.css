@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+.btn-primary{
+    border-width : 0px;
+    background-color: #35B8BE;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+
 .bg-color{
     background-color: #F5FBFC;
 }
@@ -16,3 +26,4 @@
 .d-flex{
     display: flex;
 }
+
