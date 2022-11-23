@@ -1,3 +1,52 @@
+
+main{
+    margin:0;
+    padding: 15px;
+}
+.btn-primary{
+    border-width : 0px;
+    background-color: #35B8BE;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+
+.grid{
+    display: grid;
+}
+
+.two_column_grid{
+    grid-template-columns: 50% 50%;
+}
+
+.three_column_grid{
+    grid-template-columns: 33% 34% 33%;
+}
+
+.numbers{
+    border : 1px solid silver;
+}
+
+.bg-color{
+    background-color: #F5FBFC;
+}
+.txt-left{
+    text-align: left;
+}
+.txt-center{
+    text-align: center;
+}
+.f-right{
+    float: right;
+}
+.f-left{
+    float: left;
+}
+.d-flex{
+    display: flex;
+}
+
 /*Menu Items*/
 .item{
     display: flex;
