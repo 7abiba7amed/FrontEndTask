@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/FAQ.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="icon" href="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa341ab76b5e7_Logo.svg" type="image/icon type">
+    <title>FAQ</title>
+</head>
+<body>
+    <!--NavBar-->
+    <nav id="topNav">
+        <p>We're open and available for takeaway & delivery. <a href="#" class="linkstyle" style="color: white;">Order Now</a></p>
+    </nav>
+    <nav id="bottomNav">
+        <ul>
+            <img class="logo" src="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa341ab76b5e7_Logo.svg">
+            <li><a href="#" class="linkstyle">Home</a></li>
+            <li><a href="#" class="linkstyle">Order</a></li>
+            <li><a href="#" class="linkstyle">Company</a></li>
+            <li><a href="FAQ.html" class="linkstyle active">FAQ</a></li>
+            <li><a href="mailto: abc@example.com" class="linkstyle">Contact</a></li>
+        </ul>
+    </nav>
+    <!--End of NavBar-->
+    <!--FAQ Page-->
+    <main>
+    <section class="firstSection">
+        <h1 class="sec1title">Frequently Asked <br><span class="colored-title">Questions</span></h1>
+    </section>
+    <section class="FAQ-btns">
+        <input type="button" class="FAQ-btn1 all-btns" value="Our Food">
+        <input type="button" class="FAQ-btn2 all-btns" value="Our Delivery">
+        <input type="button" class="FAQ-btn2 all-btns" value="Our Company">
+    </section>
+    <section class="FAQ-content">
+        <div class="question">
+            <h4>Do you offer any vegan options?</h4>
+            <img src="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa3059f76b604_Plus.svg">
+        </div>
+        <hr class="FAQ-hr">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p><br/>
+    </section>
+    <section class="FAQ-content">
+        <div class="question">
+            <h4>Do you offer any gluten free options?</h4>
+            <img src="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa3059f76b604_Plus.svg">
+        </div>
+        <hr class="FAQ-hr">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p><br/>
+    </section>
+    <section class="FAQ-content">
+        <div class="question">
+            <h4>Can I clone these sections?</h4>
+            <img src="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa3059f76b604_Plus.svg">
+        </div>
+        <hr class="FAQ-hr">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo di am libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros</p><br/>
+    </section>
+    <section class="FAQ-content" style="margin-bottom: 60px;">
+        <div class="question">
+            <h4>Why is Webflow so amazing?</h4>
+            <img src="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa3059f76b604_Plus.svg">
+        </div>
+        <hr class="FAQ-hr">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p><br/>
+    </section>
+    <!--End of FAQ Page-->
+    <!--Footer-->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <img src="https://assets.website-files.com/5e865e09d8efa3310676b585/5e865e09d8efa341ab76b5e7_Logo.svg" class="footerIMG">
+                    <p class="footerdesc">Takeaway & Delivery template <br>for small - medium businesses.</p>
+                </div>
+                <div class="footer-col right">
+                    <div class="footer-col">
+                        <h5>COMPANY</h5>
+                        <a href="#">Home</a><br/>
+                        <a href="#">Order</a><br/>
+                        <a href="#">FAQ</a><br/>
+                        <a href="#">Contact</a>
+                    </div>
+                    <div class="footer-col">
+                        <h5>TEMPLATE</h5>
+                        <a href="#">Style Guide</a><br/>
+                        <a href="#">Changelog</a><br/>
+                        <a href="#">Licence</a><br/>
+                        <a href="#">Webflow University</a>
+                    </div>
+                    <div class="footer-col">
+                        <h5>FLOWBASE</h5>
+                        <a href="#">More Cloneables</a>
+                    </div>
+                </div>
+            </div>
+            <hr class="footerHR">
+            <div class="footer-row">
+                <div class="leftFooter">
+                    <p>Built by <a href="#" class="footerLink">Flowbase</a>  · Powered by <a href="#" class="footerLink">Webflow</a></p>
+                </div>
+                <div class="rightFooter">
+                    <a href="#" class="fa fa-instagram"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-youtube"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--End of footer-->
+</main>
+</body>
+</html>
