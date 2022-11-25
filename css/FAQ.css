@@ -43,6 +43,8 @@
     display: flex;
     justify-content: space-between;
     color: #35B8BE;
+    margin-bottom: 25px;
+    margin-top: 30px;
 }
 .question img{
     transform: rotate(45deg);
@@ -56,4 +58,5 @@
 }
 .FAQ-hr{
     border-top: 0;
+    margin-bottom: 20px;
 }
